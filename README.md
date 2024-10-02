@@ -1,4 +1,4 @@
-To-Do App 📋
+To-Do App 📋                                  
 A simple yet beautiful To-Do List Application built with HTML, CSS, and JavaScript. It helps you track your daily tasks, mark them as completed, and delete tasks when you're done!
 
 🖼️Preview                                                                                        
@@ -63,5 +63,3 @@ This project is licensed under the MIT License. See the LICENSE file for more in
 Author 👨‍💻
 Sachin Kumar   
 Github: Sachin20187
-Github
-Github
