@@ -3,7 +3,8 @@ A simple yet beautiful To-Do List Application built with HTML, CSS, and JavaScri
 
 🖼️Preview                                                                                        
 
-![Screenshot 2024-10-02 184645](https://github.com/user-attachments/assets/5ac36a98-dad8-4ba5-9571-ada7a0b84ccc)
+![Screenshot 2024-11-26 184645](https://github.com/user-attachments/assets/fcdbafde-114e-4dc6-8e51-a330a6102132)
+
 
 Features ✨                                                          
 Add Tasks: Easily add tasks using the input field and "Add" button or hit "Enter" for quick addition.                      
