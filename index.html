@@ -12,9 +12,15 @@
             <h2>My toDo app</h2>
             <input type="text" name="input" id="input" placeholder="Enter task...">
             <button type="submit" id="btn" >Add</button>
+            <!-- <button id="btn" onclick="addTask()">Add</button> -->
         </div>
     <div class="main">
-    <ul>
+    <ul id="taskList">
+        <!-- <li class="list completed">
+            <input type="checkbox" checked onchange="updateTaskStatus(this)">
+            <span class="task-text">Eat</span>
+            <button class="delete" onclick="deleteTask(this)">Delete</button>
+        </li> -->
         <!-- <li class="list">
             <input type="checkbox" class="check" id="check1">
             <label for="check1" class="checkbox-label"></label>Eat
